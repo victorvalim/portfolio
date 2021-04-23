@@ -55,14 +55,14 @@ h1 {
   margin-top:70px;
   font-size:45px;
   font-weight:600;
-  font-family:'Josefin Sans', 'sans-serif';
+    font-family:'Josefin Sans', sans-serif;
   color:#333333,
 }
 p {
 margin-top:30px;
-font-family:'Josefin Sans', 'sans-serif';
+font-family:'Josefin Sans', sans-serif;
 font-size:20px;
-color:#333333,
+color: #8F8F8F;
 
 }
 div{
@@ -85,7 +85,7 @@ div{
       display:inline;
      font-size:25px;
      font-weight:500;
-     font-family:'Josefin Sans', 'sans-serif';
+     font-family:'Josefin Sans', sans-serif;
      position:relative;
      padding:10px 10px 4 px 10px;
     }
