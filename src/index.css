@@ -20,11 +20,6 @@ a, button {
 
 }
 
-@media screen and (min-width: 800px) {
-    body, a, button {
-        cursor: none;
-    }
-}
 
 h1,h2,h3,h4,p {
     margin: 0;
